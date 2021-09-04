@@ -1,0 +1,1014 @@
+[
+   {
+      "id":1,
+      "code":91,
+      "name":"India (+91)",
+      "beatsId":100,
+      "locations":[
+         {
+            "name":"Agra",
+            "id":435,
+            "beatsId":3625
+         },
+         {
+            "name":"Ahmedabad",
+            "id":437,
+            "beatsId":3398
+         },
+         {
+            "name":"Allahabad",
+            "id":439,
+            "beatsId":3626
+         },
+         {
+            "name":"Asansol",
+            "id":441,
+            "beatsId":3674
+         },
+         {
+            "name":"Bangalore",
+            "id":443,
+            "beatsId":3441
+         },
+         {
+            "name":"Bhopal",
+            "id":445,
+            "beatsId":3466
+         },
+         {
+            "name":"Bhubaneswar",
+            "id":447,
+            "beatsId":3524
+         },
+         {
+            "name":"Chandigarh",
+            "id":449,
+            "beatsId":3387
+         },
+         {
+            "name":"Chennai",
+            "id":451,
+            "beatsId":3593
+         },
+         {
+            "name":"Dehradun",
+            "id":453,
+            "beatsId":3665
+         },
+         {
+            "name":"Delhi",
+            "id":455,
+            "beatsId":3395
+         },
+         {
+            "name":"Dhanbad",
+            "id":457,
+            "beatsId":3436
+         },
+         {
+            "name":"Faridabad",
+            "id":459,
+            "beatsId":3419
+         },
+         {
+            "name":"Ghaziabad",
+            "id":461,
+            "beatsId":3631
+         },
+         {
+            "name":"Greater Noida",
+            "id":499,
+            "beatsId":8997
+         },
+         {
+            "name":"Gurgaon",
+            "id":463,
+            "beatsId":3426
+         },
+         {
+            "name":"Gwalior",
+            "id":465,
+            "beatsId":3468
+         },
+         {
+            "name":"Guwahati",
+            "id":467,
+            "beatsId":3370
+         },
+         {
+            "name":"Hyderabad",
+            "id":469,
+            "beatsId":3335
+         },
+         {
+            "name":"Indore",
+            "id":471,
+            "beatsId":3465
+         },
+         {
+            "name":"Jaipur",
+            "id":473,
+            "beatsId":3579
+         },
+         {
+            "name":"Jammu",
+            "id":475,
+            "beatsId":3432
+         },
+         {
+            "name":"Kanpur",
+            "id":477,
+            "beatsId":3622
+         },
+         {
+            "name":"Karnal",
+            "id":479,
+            "beatsId":3422
+         },
+         {
+            "name":"Kolkata",
+            "id":481,
+            "beatsId":3668
+         },
+         {
+            "name":"Kurukshetra",
+            "id":483,
+            "beatsId":0
+         },
+         {
+            "name":"Lucknow",
+            "id":485,
+            "beatsId":3623
+         },
+         {
+            "name":"Ludhiana",
+            "id":487,
+            "beatsId":3532
+         },
+         {
+            "name":"Meerut",
+            "id":489,
+            "beatsId":3627
+         },
+         {
+            "name":"Moradabad",
+            "id":491,
+            "beatsId":3632
+         },
+         {
+            "name":"Mumbai",
+            "id":493,
+            "beatsId":3486
+         },
+         {
+            "name":"Nagpur",
+            "id":495,
+            "beatsId":3487
+         },
+         {
+            "name":"Nasik",
+            "id":497,
+            "beatsId":3491
+         },
+         {
+            "name":"Navi Mumbai",
+            "id":493,
+            "beatsId":8999
+         },
+         {
+            "name":"Noida",
+            "id":499,
+            "beatsId":3643
+         },
+         {
+            "name":"Panipat",
+            "id":501,
+            "beatsId":3421
+         },
+         {
+            "name":"Patna",
+            "id":503,
+            "beatsId":3374
+         },
+         {
+            "name":"Pune",
+            "id":505,
+            "beatsId":3488
+         },
+         {
+            "name":"Rajkot",
+            "id":507,
+            "beatsId":3401
+         },
+         {
+            "name":"Ranchi",
+            "id":509,
+            "beatsId":3433
+         },
+         {
+            "name":"Sonepat",
+            "id":511,
+            "beatsId":3425
+         },
+         {
+            "name":"Surat",
+            "id":513,
+            "beatsId":3399
+         },
+         {
+            "name":"Thane",
+            "id":493,
+            "beatsId":3490
+         },
+         {
+            "name":"Vadodara",
+            "id":515,
+            "beatsId":3400
+         },
+         {
+            "name":"Varanasi",
+            "id":517,
+            "beatsId":3624
+         },
+         {
+            "name":"Visakhapatnam",
+            "id":519,
+            "beatsId":3336
+         },
+         {
+            "name":"Bareilly",
+            "id":650,
+            "beatsId":3628
+         },
+         {
+            "name":"Goa",
+            "id":651,
+            "beatsId":6194
+         },
+         {
+            "name":"Vijayawada",
+            "id":652,
+            "beatsId":3337
+         },
+         {
+            "name":"Vizag",
+            "id":653,
+            "beatsId":8885
+         }
+      ]
+   },
+   {
+      "id":3,
+      "code":61,
+      "name":"Australia (+61)",
+      "beatsId":15,
+      "locations":[
+         {
+            "name":"Brisbane",
+            "id":429,
+            "beatsId":1780
+         },
+         {
+            "name":"Melbourne",
+            "id":431,
+            "beatsId":1786
+         },
+         {
+            "name":"Sydney",
+            "id":433,
+            "beatsId":1776
+         }
+      ]
+   },
+   {
+      "id":5,
+      "code":852,
+      "name":"Hong Kong (+852)",
+      "beatsId":93,
+      "locations":[
+         {
+            "name":"Hong Kong",
+            "id":551,
+            "beatsId":7125
+         }
+      ]
+   },
+   {
+      "id":7,
+      "code":968,
+      "name":"Oman (+968)",
+      "beatsId":164,
+      "locations":[
+         {
+            "name":"Ibri",
+            "id":585,
+            "beatsId":0
+         },
+         {
+            "name":"Muscat",
+            "id":587,
+            "beatsId":0
+         },
+         {
+            "name":"Seeb",
+            "id":589,
+            "beatsId":0
+         }
+      ]
+   },
+   {
+      "id":9,
+      "code":974,
+      "name":"Qatar (+974)",
+      "beatsId":179,
+      "locations":[
+         {
+            "name":"Al Rayyan",
+            "id":599,
+            "beatsId":0
+         },
+         {
+            "name":"Doha",
+            "id":601,
+            "beatsId":5141
+         },
+         {
+            "name":"Dukhan",
+            "id":603,
+            "beatsId":0
+         }
+      ]
+   },
+   {
+      "id":11,
+      "code":65,
+      "name":"Singapore (+65)",
+      "beatsId":187,
+      "locations":[
+         {
+            "name":"Singapore",
+            "id":611,
+            "beatsId":5424
+         }
+      ]
+   },
+   {
+      "id":13,
+      "code":971,
+      "name":"UAE (+971)",
+      "beatsId":8,
+      "locations":[
+         {
+            "name":"Abu Dhabi",
+            "id":631,
+            "beatsId":1700
+         },
+         {
+            "name":"Dubai",
+            "id":633,
+            "beatsId":1703
+         },
+         {
+            "name":"Sharjah",
+            "id":635,
+            "beatsId":0
+         }
+      ]
+   },
+   {
+      "id":15,
+      "code":44,
+      "name":"UK (+44)",
+      "beatsId":77,
+      "locations":[
+         {
+            "name":"Birmingham",
+            "id":637,
+            "beatsId":3068
+         },
+         {
+            "name":"Leeds",
+            "id":639,
+            "beatsId":3072
+         },
+         {
+            "name":"London",
+            "id":641,
+            "beatsId":2164
+         }
+      ]
+   },
+   {
+      "id":17,
+      "code":1,
+      "name":"Canada (+1)",
+      "beatsId":38,
+      "locations":[
+         {
+            "name":"Calgary",
+            "id":529,
+            "beatsId":2144
+         },
+         {
+            "name":"Montreal",
+            "id":531,
+            "beatsId":0
+         },
+         {
+            "name":"Toronto",
+            "id":533,
+            "beatsId":8889
+         },
+         {
+            "name":"Vancouver",
+            "id":535,
+            "beatsId":2146
+         }
+      ]
+   },
+   {
+      "id":19,
+      "code":1,
+      "name":"USA (+1)",
+      "beatsId":224,
+      "locations":[
+         {
+            "name":"Chicago",
+            "id":643,
+            "beatsId":5830
+         },
+         {
+            "name":"Houston",
+            "id":645,
+            "beatsId":5934
+         },
+         {
+            "name":"New York",
+            "id":647,
+            "beatsId":5896
+         }
+      ]
+   },
+   {
+      "id":21,
+      "code":27,
+      "name":"South Africa (+27)",
+      "beatsId":237,
+      "locations":[
+         {
+            "name":"Cape Town",
+            "id":613,
+            "beatsId":6152
+         },
+         {
+            "name":"Durban",
+            "id":615,
+            "beatsId":6140
+         },
+         {
+            "name":"Johannesburg",
+            "id":617,
+            "beatsId":6119
+         }
+      ]
+   },
+   {
+      "id":23,
+      "code":60,
+      "name":"Malaysia (+60)",
+      "beatsId":150,
+      "locations":[
+         {
+            "name":"George Town",
+            "id":573,
+            "beatsId":2711
+         },
+         {
+            "name":"Johor Bahru",
+            "id":575,
+            "beatsId":0
+         },
+         {
+            "name":"Kuala Lumpur",
+            "id":577,
+            "beatsId":4581
+         }
+      ]
+   },
+   {
+      "id":25,
+      "code":64,
+      "name":"New Zealand (+64)",
+      "beatsId":163,
+      "locations":[
+         {
+            "name":"Auckland",
+            "id":579,
+            "beatsId":4782
+         },
+         {
+            "name":"Christchurch",
+            "id":581,
+            "beatsId":4786
+         },
+         {
+            "name":"Dunedin",
+            "id":583,
+            "beatsId":4787
+         }
+      ]
+   },
+   {
+      "id":27,
+      "code":66,
+      "name":"Thailand (+66)",
+      "beatsId":208,
+      "locations":[
+         {
+            "name":"Bangkok",
+            "id":625,
+            "beatsId":5493
+         },
+         {
+            "name":"Hat Yai",
+            "id":627,
+            "beatsId":5501
+         },
+         {
+            "name":"Pattaya",
+            "id":629,
+            "beatsId":8861
+         }
+      ]
+   },
+   {
+      "id":29,
+      "code":966,
+      "name":"Saudi Arabia (+966)",
+      "beatsId":184,
+      "locations":[
+         {
+            "name":"Jeddah",
+            "id":605,
+            "beatsId":0
+         },
+         {
+            "name":"Mecca",
+            "id":607,
+            "beatsId":0
+         },
+         {
+            "name":"Riyadh",
+            "id":609,
+            "beatsId":5386
+         }
+      ]
+   },
+   {
+      "id":31,
+      "code":31,
+      "name":"Netherlands (+31)",
+      "beatsId":159,
+      "locations":[
+         
+      ]
+   },
+   {
+      "id":33,
+      "code":973,
+      "name":"Bahrain (+973)",
+      "beatsId":24,
+      "locations":[
+         {
+            "name":"Hamad Town",
+            "id":521,
+            "beatsId":0
+         },
+         {
+            "name":"Manama",
+            "id":523,
+            "beatsId":6497
+         },
+         {
+            "name":"Muharraq",
+            "id":525,
+            "beatsId":0
+         },
+         {
+            "name":"Riffa",
+            "id":527,
+            "beatsId":0
+         }
+      ]
+   },
+   {
+      "id":45,
+      "code":54,
+      "name":"Argentina (+54)",
+      "beatsId":9,
+      "locations":[
+         
+      ]
+   },
+   {
+      "id":51,
+      "code":43,
+      "name":"Austria (+43)",
+      "beatsId":16,
+      "locations":[
+         
+      ]
+   },
+   {
+      "id":57,
+      "code":880,
+      "name":"Bangladesh (+880)",
+      "beatsId":22,
+      "locations":[
+         
+      ]
+   },
+   {
+      "id":63,
+      "code":32,
+      "name":"Belgium (+32)",
+      "beatsId":19,
+      "locations":[
+         
+      ]
+   },
+   {
+      "id":79,
+      "code":55,
+      "name":"Brazil (+55)",
+      "beatsId":31,
+      "locations":[
+         
+      ]
+   },
+   {
+      "id":101,
+      "code":86,
+      "name":"China (+86)",
+      "beatsId":42,
+      "locations":[
+         
+      ]
+   },
+   {
+      "id":113,
+      "code":385,
+      "name":"Croatia (+385)",
+      "beatsId":96,
+      "locations":[
+         
+      ]
+   },
+   {
+      "id":121,
+      "code":42,
+      "name":"Czech Republic (+42)",
+      "beatsId":56,
+      "locations":[
+         
+      ]
+   },
+   {
+      "id":123,
+      "code":45,
+      "name":"Denmark (+45)",
+      "beatsId":60,
+      "locations":[
+         
+      ]
+   },
+   {
+      "id":129,
+      "code":1809,
+      "name":"Dominican Republic (+1809)",
+      "beatsId":61,
+      "locations":[
+         
+      ]
+   },
+   {
+      "id":133,
+      "code":20,
+      "name":"Egypt (+20)",
+      "beatsId":64,
+      "locations":[
+         
+      ]
+   },
+   {
+      "id":151,
+      "code":358,
+      "name":"Finland (+358)",
+      "beatsId":70,
+      "locations":[
+         
+      ]
+   },
+   {
+      "id":149,
+      "code":679,
+      "name":"Fiji (+679)",
+      "beatsId":0,
+      "locations":[
+         
+      ]
+   },
+   {
+      "id":153,
+      "code":33,
+      "name":"France (+33)",
+      "beatsId":73,
+      "locations":[
+         {
+            "name":"Lyon",
+            "id":537,
+            "beatsId":3041
+         },
+         {
+            "name":"Marseille",
+            "id":539,
+            "beatsId":3037
+         },
+         {
+            "name":"Paris",
+            "id":541,
+            "beatsId":3008
+         }
+      ]
+   },
+   {
+      "id":165,
+      "code":49,
+      "name":"Germany (+49)",
+      "beatsId":57,
+      "locations":[
+         {
+            "name":"Berlin",
+            "id":543,
+            "beatsId":2744
+         },
+         {
+            "name":"Hamburg",
+            "id":545,
+            "beatsId":2749
+         },
+         {
+            "name":"Munich",
+            "id":547,
+            "beatsId":0
+         },
+         {
+            "name":"Frankfurt",
+            "id":549,
+            "beatsId":0
+         }
+      ]
+   },
+   {
+      "id":171,
+      "code":30,
+      "name":"Greece (+30)",
+      "beatsId":86,
+      "locations":[
+         
+      ]
+   },
+   {
+      "id":187,
+      "code":592,
+      "name":"Guyana (+592)",
+      "beatsId":92,
+      "locations":[
+         
+      ]
+   },
+   {
+      "id":193,
+      "code":36,
+      "name":"Hungary (+36)",
+      "beatsId":98,
+      "locations":[
+         
+      ]
+   },
+   {
+      "id":197,
+      "code":62,
+      "name":"Indonesia (+62)",
+      "beatsId":99,
+      "locations":[
+         
+      ]
+   },
+   {
+      "id":203,
+      "code":353,
+      "name":"Ireland (+353)",
+      "beatsId":102,
+      "locations":[
+         {
+            "name":"Cork",
+            "id":559,
+            "beatsId":3715
+         }
+      ]
+   },
+   {
+      "id":205,
+      "code":972,
+      "name":"Israel (+972)",
+      "beatsId":106,
+      "locations":[
+         
+      ]
+   },
+   {
+      "id":207,
+      "code":39,
+      "name":"Italy (+39)",
+      "beatsId":107,
+      "locations":[
+         
+      ]
+   },
+   {
+      "id":211,
+      "code":81,
+      "name":"Japan (+81)",
+      "beatsId":110,
+      "locations":[
+         
+      ]
+   },
+   {
+      "id":213,
+      "code":962,
+      "name":"Jordan (+962)",
+      "beatsId":109,
+      "locations":[
+         
+      ]
+   },
+   {
+      "id":223,
+      "code":82,
+      "name":"Korea South (+82)",
+      "beatsId":0,
+      "locations":[
+         
+      ]
+   },
+   {
+      "id":225,
+      "code":965,
+      "name":"Kuwait (+965)",
+      "beatsId":118,
+      "locations":[
+         {
+            "name":"Kuwait",
+            "id":565,
+            "beatsId":4245
+         }
+      ]
+   },
+   {
+      "id":247,
+      "code":853,
+      "name":"Macao (+853)",
+      "beatsId":130,
+      "locations":[
+         
+      ]
+   },
+   {
+      "id":269,
+      "code":52,
+      "name":"Mexico (+52)",
+      "beatsId":136,
+      "locations":[
+         
+      ]
+   },
+   {
+      "id":281,
+      "code":212,
+      "name":"Morocco (+212)",
+      "beatsId":131,
+      "locations":[
+         
+      ]
+   },
+   {
+      "id":307,
+      "code":47,
+      "name":"Norway (+47)",
+      "beatsId":160,
+      "locations":[
+         
+      ]
+   },
+   {
+      "id":323,
+      "code":48,
+      "name":"Poland (+48)",
+      "beatsId":172,
+      "locations":[
+         
+      ]
+   },
+   {
+      "id":325,
+      "code":351,
+      "name":"Portugal (+351)",
+      "beatsId":175,
+      "locations":[
+         
+      ]
+   },
+   {
+      "id":331,
+      "code":40,
+      "name":"Romania (+40)",
+      "beatsId":181,
+      "locations":[
+         
+      ]
+   },
+   {
+      "id":333,
+      "code":7,
+      "name":"Russia (+7)",
+      "beatsId":0,
+      "locations":[
+         
+      ]
+   },
+   {
+      "id":357,
+      "code":34,
+      "name":"Spain (+34)",
+      "beatsId":67,
+      "locations":[
+         
+      ]
+   },
+   {
+      "id":373,
+      "code":46,
+      "name":"Sweden (+46)",
+      "beatsId":201,
+      "locations":[
+         
+      ]
+   },
+   {
+      "id":375,
+      "code":41,
+      "name":"Switzerland (+41)",
+      "beatsId":40,
+      "locations":[
+         
+      ]
+   },
+   {
+      "id":387,
+      "code":1868,
+      "name":"Trinidad & Tobago (+1868)",
+      "beatsId":0,
+      "locations":[
+         
+      ]
+   },
+   {
+      "id":389,
+      "code":216,
+      "name":"Tunisia (+216)",
+      "beatsId":215,
+      "locations":[
+         
+      ]
+   },
+   {
+      "id":391,
+      "code":90,
+      "name":"Turkey (+90)",
+      "beatsId":216,
+      "locations":[
+         
+      ]
+   },
+   {
+      "id":413,
+      "code":84,
+      "name":"Vietnam (+84)",
+      "beatsId":231,
+      "locations":[
+         
+      ]
+   }
+]
